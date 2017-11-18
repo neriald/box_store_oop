@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1452707986 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\exam studies no2\main.cpp
+	<iostream>
+	"Box.h"
+	"store.h"
+
+1452704918 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\exam studies no2\src\box.cpp
+	"Box.h"
+	<iostream>
+	<math.h>
+
+1452706480 c:\users\chuck\documents\studies\2nd year\object oriented c++\exam studies no2\include\box.h
+	<iostream>
+
+1452707949 c:\users\chuck\documents\studies\2nd year\object oriented c++\exam studies no2\include\store.h
+	"Box.h"
+	<iostream>
+	<stdexcept>
+	<vector>
+
+1452707949 source:c:\users\chuck\documents\studies\2nd year\object oriented c++\exam studies no2\src\store.cpp
+	"store.h"
+	<sstream>
+
